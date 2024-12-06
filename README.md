@@ -1,2 +1,2 @@
 # Task-Manager-App
-App built using django
+Task Manager App built using django
